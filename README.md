@@ -1,29 +1,23 @@
 # Practitest Interview Task
 
-## Backend Installation
+## Backend Installation & run backend
 
+```bash
 cd api
-
-```bash
 npm run install
-```
-
-## Run Backend
-
-```bash
 npm run dev
 ```
 
-## Client Installation
-
-cd client
+## Client Installation and run Client
 
 ```bash
+cd ../client
 npm run install
+npm run dev
 ```
 
-## Run Client
+## One line cmd for unix system
 
 ```bash
-npm run dev
+git clone https://github.com/alonpinto/practitest-task.git && cd practitest-task/backend && npm i && npm run dev && cd ../client && npm i && npm run dev
 ```
