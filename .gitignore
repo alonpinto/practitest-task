@@ -20,4 +20,4 @@ pom.xml.asc
 /.repl
 *.log
 /.env
-
+client/public/js
