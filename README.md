@@ -18,6 +18,19 @@ npm run dev
 
 ## One line cmd for unix system
 
+# First terminal tab
+
 ```bash
-git clone https://github.com/alonpinto/practitest-task.git && cd practitest-task/backend && npm i && npm run dev && cd ../client && npm i && npm run dev
+git clone https://github.com/alonpinto/practitest-task.git && cd ./practitest-task/backend && npm i && npm run dev
+
+```
+
+## One line cmd for unix system
+
+# Second terminal tab
+
+# verify you are practitest-task folder
+
+```bash
+cd ./client && npm i && npm run dev
 ```
